@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Destroyable
+  - Checkpoint
+  - Crate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collectables
+  - Ground
+  - Bullets
+  - Bombs
+  - LevelBorder
+  - Terrorist
+  - Player
+  - RespawnPoint
+  - FirePoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2423301373
+    locked: 0
+  - name: Platforms
+    uniqueID: 2964540877
+    locked: 0
+  - name: Enemies
+    uniqueID: 3545394567
+    locked: 0
+  - name: Bullets
+    uniqueID: 2835830915
+    locked: 0
+  - name: Player
+    uniqueID: 2082180621
+    locked: 0
+  - name: UI
+    uniqueID: 3672859243
+    locked: 0
